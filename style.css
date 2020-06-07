@@ -80,3 +80,9 @@ button:hover{
   color: black;
   border-color: #fff;
 }
+@media (max-width:900px)
+  {
+    h1{
+      font-size:90px;
+    }
+}
